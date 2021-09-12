@@ -1,5 +1,5 @@
-parsel
-pytz
-selenium
-PySimpleGUI
-pyperclip
+parsel==1.6.0
+pytz==2021.1
+selenium==3.141.0
+PySimpleGUI==4.45.0
+pyperclip==1.8.2

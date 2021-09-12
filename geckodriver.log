@@ -380,3 +380,19 @@ JavaScript warning: http://www.snirh.gov.br/hidrotelemetria/inc/js/Functions.js,
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1631479416639	geckodriver	INFO	Listening on 127.0.0.1:50760
+1631479419658	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9fJKie"
+1631479420023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofile9fJKie\\search.json.mozlz4", (void 0)))
+1631479422239	Marionette	INFO	Listening on port 50769
+1631479422320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript warning: https://vlibras.gov.br/app2/vlibras-plugin.js, line 81: unreachable code after return statement
+JavaScript warning: http://www.snirh.gov.br/hidrotelemetria/inc/js/Functions.js, line 447: unreachable code after return statement
+JavaScript warning: http://www.snirh.gov.br/hidrotelemetria/inc/js/Functions.js, line 501: unreachable code after return statement
+JavaScript warning: http://www.snirh.gov.br/hidrotelemetria/inc/js/Functions.js, line 558: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1631479505613	Marionette	INFO	Stopped listening on port 50769
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

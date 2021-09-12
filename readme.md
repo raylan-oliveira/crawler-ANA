@@ -6,3 +6,11 @@ Projeto, em python, que busca informações no site da Agência Nacional de Águ
 [**Download última versão!!**](https://github.com/raylan-oliveira/crawler-ANA/releases/latest)
 ## Demonstração:
 ![Demon](https://github.com/raylan-oliveira/crawler-ANA/raw/main/img/demo.gif)
+
+### Dependências
+   ```sh
+    which ffmpeg
+   
+    # expected output if installed
+    /usr/bin/ffmpeg
+   ```
