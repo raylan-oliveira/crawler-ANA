@@ -11,6 +11,12 @@ Projeto, em python, que busca informações no site da Agência Nacional de Águ
    ```sh
 	pip install -r requeriments.txt
    ```
+   
+### Executar
+   ```sh
+	python crawler.py
+	```
+	
 ### Compilar
    ```sh
 	pip install pyinstaller
