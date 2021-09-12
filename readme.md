@@ -15,7 +15,7 @@ Projeto, em python, que busca informações no site da Agência Nacional de Águ
 ### Executar
    ```sh
 	python crawler.py
-	```
+   ```
 	
 ### Compilar
    ```sh
