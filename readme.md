@@ -9,8 +9,10 @@ Projeto, em python, que busca informações no site da Agência Nacional de Águ
 
 ### Dependências
    ```sh
-    which ffmpeg
-   
-    # expected output if installed
-    /usr/bin/ffmpeg
+	pip install -r requeriments.txt
+   ```
+### Compilar
+   ```sh
+	pip install pyinstaller
+	pyinstaller --noconsole --icon="F:\PROGRAMA\img\icone.ico" crawler.py	
    ```
